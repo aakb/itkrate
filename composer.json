@@ -1,6 +1,9 @@
 {
   "name": "drupal/itkrate",
-  "description": "ITKore install profile",
+  "description": "ITKrate install profile",
+  "type": "drupal-profile",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
   "require": {
     "composer/installers": "~1.0",
     "drupal/token": "~1",
